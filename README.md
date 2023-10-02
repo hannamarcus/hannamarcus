@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hannamarcus
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C, JavaScript, Node, SQL, and React
+- 🌱 I’m currently learning JavaScript, Node, SQL, and React
 - 📫 Get in touch! Email: hannamarcus1@gmail.com
 
 <!---
